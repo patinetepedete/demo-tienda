@@ -1,9 +1,1 @@
-﻿{
-  "name": "rove-studio-demo",
-  "version": "1.0.0",
-  "private": true,
-  "scripts": {
-    "dev": "node scripts/server.js",
-    "build": "node scripts/check-site.js"
-  }
-}
+﻿
